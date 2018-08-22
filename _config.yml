@@ -5,21 +5,21 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : 
+title                    : "Jump into development"
 # title                    : "Dev.Hundred"
 title_separator          : "-"
-name                     : 
+name                     : "iteach12"
 # name                     : "Junho Baik"
-description              : 
+description              : "나의 성장 일지"
 # description              : "A personal web for Junho Baik"
-url                      : 
+url                      : "https://iteach12.github.io"
 # url                      : "https://junhobaik.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : 
+repository               : "iteach12/iteach12.github.io"
 # repository               : "junhobaik/junhobaik.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)

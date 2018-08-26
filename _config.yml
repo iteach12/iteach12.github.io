@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko"
-title                    : "Jump into development"
+title                    : "iteach12"
 # title                    : "Dev.Hundred"
 title_separator          : "-"
 name                     : "iteach12"
@@ -28,7 +28,7 @@ comments:
   provider               :  # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   # provider               : "disqus"
   disqus:
-    shortname            : 
+    shortname            :
     # shortname            : dev-hundred-blog
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
@@ -71,7 +71,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -87,7 +87,7 @@ analytics:
   provider               :  # false (default), "google", "google-universal", "custom"
   # provider               : "google"
   google:
-    tracking_id          : 
+    tracking_id          :
     # tracking_id          : "UA-103592668-4"
 
 
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "iteach12"
   # name             : "Junho Baik"
-  avatar           : 
+  avatar           :"/_img/robot.png"
   # avatar           : "/assets/images/profile.png"
   bio              : "Elementary School Teacher"
   # bio              : "Junior Front-End Web Developer"
@@ -115,7 +115,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :

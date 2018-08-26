@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "iteach12"
   # name             : "Junho Baik"
-  avatar           :
+  avatar           : "./_img/profile.png"
   # avatar           : "/assets/images/profile.png"
   bio              : "Elementary School Teacher"
   # bio              : "Junior Front-End Web Developer"
